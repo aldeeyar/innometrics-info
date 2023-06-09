@@ -54,6 +54,8 @@ The agent-gateway service focuses on metrics aggregation and storage. It is an a
 which takes the raw collected data and transforms them to perform an analysis process. It aims not to affect the 
 performance of the transactional database during data processing.
 
+## Frontend
+
 In the frontend part we have some data structures, such as company, agent (integration), and GQM model. 
 Agent is a service collecting data about user behaviour on predefined metrics. Company creates a company 
 where a user can connect monitoring of agent metrics, as well as add team members. To create a connection between
