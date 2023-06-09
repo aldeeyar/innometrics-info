@@ -16,7 +16,7 @@ adaptability to new requirements.
 The container diagram below shows the high-level shape of the software architecture and how responsibilities are distributed across it. 
 It also shows the major technology choices and how the containers communicate with one another.
 
-![img][https://github.com/aldeeyar/innometrics-info/blob/main/images/container_diagram.png]
+![container_diagram.png](https://github.com/aldeeyar/innometrics-info/blob/main/images/container_diagram.png)
 
 In order to provide a system with such capabilities, a backend based on microservices 
 has been developed. The backend consists of a number of specialised services, each responsible for a different part of 
@@ -55,11 +55,18 @@ which takes the raw collected data and transforms them to perform an analysis pr
 performance of the transactional database during data processing.
 
 ## Frontend
+In the frontend part we have some data structures, such as company, agent (integration), and GQM model.
 
-In the frontend part we have some data structures, such as company, agent (integration), and GQM model. 
-Agent is a service collecting data about user behaviour on predefined metrics. Company creates a company 
-where a user can connect monitoring of agent metrics, as well as add team members. To create a connection between
-agents and companies there is an integration service. One integration can have several metrics on how to obtain data. 
+### Agent
+Agent is a service collecting data about user behaviour on predefined metrics. 
+
+### Company
+Company creates a company where a user can connect monitoring of agent metrics, as well as add team members. 
+
+### Integration (Agent x Company)
+To create a connection between agents and companies there is an integration service. One integration can have several metrics on how to obtain data. 
+
+### GQM 
 GQM helps to estimate which methods to use in integration based on user goal.
 
  ## Links
