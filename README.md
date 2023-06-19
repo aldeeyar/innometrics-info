@@ -80,7 +80,7 @@ GQM helps to estimate which methods to use in integration based on user goal.
   (Access readable format by pasting `documentation.yaml` data to https://editor.swagger.io)
 *  [Website](https://innometrics.ru/) 
 * [Here](https://drive.google.com/file/d/1ghOf4uXLN9Nl4MYenroQuLhQ3GPfZMZW/view?usp=sharing) you can read about PRIVACY NOTICE of Innometrics system.
-
+* [Here](https://docs.google.com/presentation/d/171IWzs-ZXBAmw7AlCU-7JUuHay5v3OS3rvK6loqNJUc/edit?usp=sharing) you can find DEMO for 2023
 
 ## Installation
 [Here](https://github.com/aldeeyar/innometrics-info/blob/main/instructions.md) you can read the instructions for local running, automated deployment, and sonarcloud analysis.
