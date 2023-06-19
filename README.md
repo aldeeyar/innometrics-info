@@ -74,6 +74,7 @@ GQM helps to estimate which methods to use in integration based on user goal.
 * [Dashboard](https://innometrics-12856.firebaseapp.com/#/login)
 
 * [Frontend](https://github.com/InnopolisUniversity/innometrics-dashboard)
+* * [Frontend - new - 2023](https://github.com/ease-ln/diplome/blob/main/README.md)
 
 * [API](https://github.com/InnopolisUniversity/innometrics-backend/blob/master/documentation.yaml)
   (Access readable format by pasting `documentation.yaml` data to https://editor.swagger.io)
@@ -83,3 +84,4 @@ GQM helps to estimate which methods to use in integration based on user goal.
 
 ## Installation
 [Here](https://github.com/aldeeyar/innometrics-info/blob/main/instructions.md) you can read the instructions for local running, automated deployment, and sonarcloud analysis.
+[Here]([https://github.com/ease-ln/diplome)](https://github.com/e)ase-ln/diplome/blob/main/README.md) you can find the instructions for frontend
