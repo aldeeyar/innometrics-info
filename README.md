@@ -84,4 +84,4 @@ GQM helps to estimate which methods to use in integration based on user goal.
 
 ## Installation
 [Here](https://github.com/aldeeyar/innometrics-info/blob/main/instructions.md) you can read the instructions for local running, automated deployment, and sonarcloud analysis.
-[Here]([https://github.com/ease-ln/diplome)](https://github.com/e)ase-ln/diplome/blob/main/README.md) you can find the instructions for frontend
+[Here](https://github.com/ease-ln/diplome/blob/main/README.md) you can find the instructions for frontend
